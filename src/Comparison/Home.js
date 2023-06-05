@@ -1,11 +1,11 @@
 import React, { useState, useEffect, useContext } from "react"
 import { createServer } from "miragejs"
 import axios from "axios"
-import honor from '../confronto images/honor.png'
-import iphone11 from '../confronto images/iphone 11.png'
-import iphone11pro from '../confronto images/iphone 11 pro.png'
-import oneplus from '../confronto images/one plus 7t pro..png'
-import lgg8 from '../confronto images/lg g8.png'
+import honor from '../Ecommerce Images/honor.png'
+import iphone11 from '../Ecommerce Images/iphone 11.png'
+import iphone11pro from '../Ecommerce Images/iphone 11 pro.png'
+import oneplus from '../Ecommerce Images/one plus 7t pro..png'
+import lgg8 from '../Ecommerce Images/lg g8.png'
 import './confronto.css'
 import { Link } from "react-router-dom"
 import { productcontext } from "./App"
